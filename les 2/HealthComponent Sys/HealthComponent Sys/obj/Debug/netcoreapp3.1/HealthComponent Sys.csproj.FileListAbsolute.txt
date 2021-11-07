@@ -1,0 +1,13 @@
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\bin\Debug\netcoreapp3.1\HealthComponent Sys.exe
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\bin\Debug\netcoreapp3.1\HealthComponent Sys.deps.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\bin\Debug\netcoreapp3.1\HealthComponent Sys.runtimeconfig.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\bin\Debug\netcoreapp3.1\HealthComponent Sys.runtimeconfig.dev.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\bin\Debug\netcoreapp3.1\HealthComponent Sys.dll
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\bin\Debug\netcoreapp3.1\HealthComponent Sys.pdb
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.csprojAssemblyReference.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.AssemblyInfo.cs
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.dll
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.pdb
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 2\HealthComponent Sys\HealthComponent Sys\obj\Debug\netcoreapp3.1\HealthComponent Sys.genruntimeconfig.cache

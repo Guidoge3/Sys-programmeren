@@ -1,0 +1,13 @@
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.csprojAssemblyReference.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.AssemblyInfo.cs
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\bin\Debug\netcoreapp3.1\Rectangles Sys.exe
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\bin\Debug\netcoreapp3.1\Rectangles Sys.deps.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\bin\Debug\netcoreapp3.1\Rectangles Sys.runtimeconfig.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\bin\Debug\netcoreapp3.1\Rectangles Sys.runtimeconfig.dev.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\bin\Debug\netcoreapp3.1\Rectangles Sys.dll
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\bin\Debug\netcoreapp3.1\Rectangles Sys.pdb
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.dll
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.pdb
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\les 3\Rectangles Sys\Rectangles Sys\obj\Debug\netcoreapp3.1\Rectangles Sys.genruntimeconfig.cache
