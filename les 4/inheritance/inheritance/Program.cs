@@ -2,19 +2,23 @@
 
 namespace inheritance
 {
-    public class Animal
+    abstract class Equipment
     {
-        public void eat() { Console.WriteLine("Eating"); }
+        public abstract void equip();
     }
 
-
-    class TestInheritance2
+    class test
     {
-        public static void Main(string[] args)
+    static void Main(string[] args)
         {
-            Dog d1 = new Dog();
-            d1.eat();
-            d1.bark();
+            Equipment armor;
+            armor = new Armor();
+            armor.equip();
+            Console.WriteLine("------------------------------------------------------------------------------------------------------------------------");
+            Equipment weapons;
+            weapons = new Weapons();
+            weapons.equip();
         }
+
     }
 }
