@@ -1,0 +1,13 @@
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\bin\Debug\netcoreapp3.1\GameButton.exe
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\bin\Debug\netcoreapp3.1\GameButton.deps.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\bin\Debug\netcoreapp3.1\GameButton.runtimeconfig.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\bin\Debug\netcoreapp3.1\GameButton.runtimeconfig.dev.json
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\bin\Debug\netcoreapp3.1\GameButton.dll
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\bin\Debug\netcoreapp3.1\GameButton.pdb
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.csprojAssemblyReference.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.AssemblyInfo.cs
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.dll
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.pdb
+C:\Users\guido\OneDrive\Documenten\School\Sys programmeren\Les 6\GameButton\GameButton\obj\Debug\netcoreapp3.1\GameButton.genruntimeconfig.cache
